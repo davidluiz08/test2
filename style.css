@@ -1,0 +1,31 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+.menuH, .menuV {
+    display: flex;
+    align-items: center;
+}
+
+.ikonMenu {
+    width: 35px;
+}
+
+.menuV a {
+    padding: 0px 10px;
+    color:black;
+}
+
+.menuH a {
+    padding: 0px 10px;
+    color:black;
+
+}
+
+.button1 {
+    background-color:blue;
+    color:white;
+    padding:6px;
+    
+}
+
